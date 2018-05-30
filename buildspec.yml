@@ -3,12 +3,11 @@ version: 0.1
 phases:
   build:
     commands:
-      -echo nothing to do yet.
+      - echo nothing to do yet
 artifacts:
   Files:
-    -index.html
-    -favicon.ico
-    -index.html
-    images/*
-    styles/*
-         
+    - index.html
+    - favicon.ico
+    - index.html
+    - images/*
+    - styles/*
