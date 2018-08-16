@@ -7,3 +7,8 @@ This is my professional portfolio.  It uses AWS and ReactJS.
 Git and Github
 SSH
 Brew
+AWS S3
+AWS Codebuild
+HTML
+Python
+YAML
